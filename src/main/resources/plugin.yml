@@ -1,0 +1,5 @@
+name: tower_by_tlm
+version: 0.1
+author: [Maelys, Luca, Thibault]
+main: ch.tlm.tower.Main
+api-version: 1.19
